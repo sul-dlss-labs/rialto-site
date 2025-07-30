@@ -2,17 +2,17 @@
 
 This is a demonstration static site for the RIALTO project. It uses [11ty] and data that is published by [rialto-airflow].
 
-To develop it:
+To develop:
 
 ```
 $ yarn install
-$ yarn serve
+$ yarn run serve
 ```
 
-Publish:
+To build:
 
 ```
-$ yarn build
+$ yarn run build
 $ open _site/index.html
 ```
 

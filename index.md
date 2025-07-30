@@ -15,7 +15,7 @@ async function main() {
 }
 
 async function publications() {
-  const resp = await fetch("/data/publications.json");
+  const resp = await fetch("data/publications.json");
   let data = await resp.json();
 
   Plotly.newPlot(
@@ -31,7 +31,7 @@ async function publications() {
 }
 
 async function openaccess() {
-  const resp = await fetch("/data/openaccess.json");
+  const resp = await fetch("data/openaccess.json");
   let data = await resp.json();
 
   Plotly.newPlot(
