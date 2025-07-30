@@ -1,0 +1,17 @@
+{
+  "name": "rialto-site",
+  "version": "0.0.1",
+  "description": "A static site for the RIALTO project.",
+  "main": "index.js",
+  "repository": "https://github.com/sul-dlss-labs/rialto-site",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "plotly.js-dist": "^3.0.3"
+  },
+  "scripts": {
+    "serve": "eleventy --serve",
+    "build": "eleventy --build"
+  },
+  "type": "module"
+}

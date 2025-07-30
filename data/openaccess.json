@@ -1,0 +1,236 @@
+[
+  {
+    "x": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "y": [
+      229,
+      524,
+      436,
+      514,
+      541,
+      581,
+      518,
+      293
+    ],
+    "name": "gold",
+    "type": "bar",
+    "text": [
+      "229",
+      "524",
+      "436",
+      "514",
+      "541",
+      "581",
+      "518",
+      "293"
+    ],
+    "textposition": "bottom",
+    "hovertemplate": "Open Access Category: <b>gold</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
+    "marker": {
+      "color": "#FFC800"
+    }
+  },
+  {
+    "x": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "y": [
+      80,
+      99,
+      166,
+      240,
+      285,
+      383,
+      329,
+      178
+    ],
+    "name": "hybrid",
+    "type": "bar",
+    "text": [
+      "80",
+      "99",
+      "166",
+      "240",
+      "285",
+      "383",
+      "329",
+      "178"
+    ],
+    "textposition": "bottom",
+    "hovertemplate": "Open Access Category: <b>hybrid</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
+    "marker": {
+      "color": "#5064FA"
+    }
+  },
+  {
+    "x": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "y": [
+      435,
+      475,
+      595,
+      606,
+      521,
+      670,
+      948,
+      728
+    ],
+    "name": "closed",
+    "type": "bar",
+    "text": [
+      "435",
+      "475",
+      "595",
+      "606",
+      "521",
+      "670",
+      "948",
+      "728"
+    ],
+    "textposition": "bottom",
+    "hovertemplate": "Open Access Category: <b>closed</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
+    "marker": {
+      "color": "#566271"
+    }
+  },
+  {
+    "x": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "y": [
+      224,
+      240,
+      245,
+      229,
+      236,
+      202,
+      49,
+      18
+    ],
+    "name": "bronze",
+    "type": "bar",
+    "text": [
+      "224",
+      "240",
+      "245",
+      "229",
+      "236",
+      "202",
+      "49",
+      "18"
+    ],
+    "textposition": "bottom",
+    "hovertemplate": "Open Access Category: <b>bronze</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
+    "marker": {
+      "color": "#B96400"
+    }
+  },
+  {
+    "x": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "y": [
+      271,
+      379,
+      583,
+      676,
+      715,
+      745,
+      565,
+      197
+    ],
+    "name": "green",
+    "type": "bar",
+    "text": [
+      "271",
+      "379",
+      "583",
+      "676",
+      "715",
+      "745",
+      "565",
+      "197"
+    ],
+    "textposition": "bottom",
+    "hovertemplate": "Open Access Category: <b>green</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
+    "marker": {
+      "color": "#7DC896"
+    }
+  },
+  {
+    "x": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "y": [
+      4,
+      13,
+      14,
+      14,
+      15,
+      20,
+      23,
+      20
+    ],
+    "name": "diamond",
+    "type": "bar",
+    "text": [
+      "4",
+      "13",
+      "14",
+      "14",
+      "15",
+      "20",
+      "23",
+      "20"
+    ],
+    "textposition": "bottom",
+    "hovertemplate": "Open Access Category: <b>diamond</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
+    "marker": {
+      "color": "#C2EEEE"
+    }
+  }
+]
