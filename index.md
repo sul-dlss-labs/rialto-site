@@ -3,9 +3,11 @@ title: RIALTO Homepage
 layout: page.njk
 ---
 
-<div id="publications"></div>
+<div id="publications">
+</div>
 
-<div id="openaccess"></div>
+<div id="openaccess">
+</div>
 
 <script>
 
@@ -25,7 +27,11 @@ async function publications() {
       title: {
         text: "Total Publications by Year"
       },
-      barcornerradius: 2,
+      hovermode: false,
+      barcornerradius: 3,
+    },
+    {
+      displaylogo: false
     }
   );
 }
@@ -44,16 +50,20 @@ async function openaccess() {
       },
       xaxis: {
         title: {
-          text: 'Publication Count by OA Category'
+          text: 'Publication Year'
         }
       },
       yaxis: {
         title: {
-          text: 'Publication Year'
+          text: 'Publication Year',
+          standoff: 25 
         }
       },
       barmode: 'stack',
-      barcornerradius: 2,
+      barcornerradius: 3,
+    },
+    {
+      displaylogo: false
     }
   );
 }

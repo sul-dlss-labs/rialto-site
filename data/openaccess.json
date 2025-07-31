@@ -11,70 +11,31 @@
       2025
     ],
     "y": [
-      229,
-      524,
-      436,
-      514,
-      541,
-      581,
-      518,
-      293
+      154,
+      162,
+      167,
+      188,
+      224,
+      210,
+      213,
+      57
     ],
-    "name": "gold",
+    "name": "not available",
     "type": "bar",
     "text": [
-      "229",
-      "524",
-      "436",
-      "514",
-      "541",
-      "581",
-      "518",
-      "293"
+      "154",
+      "162",
+      "167",
+      "188",
+      "224",
+      "210",
+      "213",
+      "57"
     ],
     "textposition": "bottom",
-    "hovertemplate": "Open Access Category: <b>gold</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
+    "hovertemplate": "Open Access Category: <b>not available</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
     "marker": {
-      "color": "#FFC800"
-    }
-  },
-  {
-    "x": [
-      2018,
-      2019,
-      2020,
-      2021,
-      2022,
-      2023,
-      2024,
-      2025
-    ],
-    "y": [
-      80,
-      99,
-      166,
-      240,
-      285,
-      383,
-      329,
-      178
-    ],
-    "name": "hybrid",
-    "type": "bar",
-    "text": [
-      "80",
-      "99",
-      "166",
-      "240",
-      "285",
-      "383",
-      "329",
-      "178"
-    ],
-    "textposition": "bottom",
-    "hovertemplate": "Open Access Category: <b>hybrid</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
-    "marker": {
-      "color": "#5064FA"
+      "color": "#C8D0D9"
     }
   },
   {
@@ -192,6 +153,84 @@
     "hovertemplate": "Open Access Category: <b>green</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
     "marker": {
       "color": "#7DC896"
+    }
+  },
+  {
+    "x": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "y": [
+      80,
+      99,
+      166,
+      240,
+      285,
+      383,
+      329,
+      178
+    ],
+    "name": "hybrid",
+    "type": "bar",
+    "text": [
+      "80",
+      "99",
+      "166",
+      "240",
+      "285",
+      "383",
+      "329",
+      "178"
+    ],
+    "textposition": "bottom",
+    "hovertemplate": "Open Access Category: <b>hybrid</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
+    "marker": {
+      "color": "#5064FA"
+    }
+  },
+  {
+    "x": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "y": [
+      229,
+      524,
+      436,
+      514,
+      541,
+      581,
+      518,
+      293
+    ],
+    "name": "gold",
+    "type": "bar",
+    "text": [
+      "229",
+      "524",
+      "436",
+      "514",
+      "541",
+      "581",
+      "518",
+      "293"
+    ],
+    "textposition": "bottom",
+    "hovertemplate": "Open Access Category: <b>gold</b><br>Publication Count:          <b>%{y}</b><br>Publication Year:            <b>%{x}</b>",
+    "marker": {
+      "color": "#FFC800"
     }
   },
   {
