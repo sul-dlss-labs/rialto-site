@@ -55,7 +55,7 @@ async function openaccess() {
       },
       yaxis: {
         title: {
-          text: 'Publication Year',
+          text: 'Publication Count by OA Category',
           standoff: 25 
         }
       },
