@@ -38,6 +38,7 @@ async function openaccess() {
     document.getElementById('openaccess'),
     data,
     {
+      height: 500,
       title: {
         text: "Open Access Publication Counts by Year"
       },
